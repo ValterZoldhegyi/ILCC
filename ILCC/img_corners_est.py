@@ -1,35 +1,3 @@
-               
-                    
-
-             
-      
-           
-       
- 
-                 
-               
- 
-    
-                      
- 
- 
-  
-    
-             
-       
-        
-    
-        
-        
-        
-                              
-      
-                                          
-                                    
-        
-              
-                            
-  
 import numpy as np
 print (np)
 import cv2
