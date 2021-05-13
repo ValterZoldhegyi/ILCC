@@ -1,35 +1,3 @@
-               
-                    
-
-             
-      
-           
-       
- 
-                 
-               
- 
-    
-                      
- 
- 
-  
-    
-             
-       
-        
-    
-        
-        
-        
-                     
-      
-                                          
-                                    
-        
-              
-                             
-  
 # coding=utf-8
 import pickle as cPickle
 from scipy.optimize import minimize, root
