@@ -229,6 +229,8 @@ class jdc_segments_collection:
                     jdc_seg.segment_id = i
                     jdc_seg.points_xyz = np.vstack(
                         [data_arr_by_id_list[start_point_pos:i + 1, :], data_arr_by_id_list[:first_jdc + 1, :]])
+
+											 
                     if len(jdc_seg.points_xyz) > least_points_num:
                         self.add_seg(jdc_seg)
                     del jdc_seg
